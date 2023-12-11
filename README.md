@@ -1,1 +1,1 @@
-# Git2
+# Git2 cloning to local
